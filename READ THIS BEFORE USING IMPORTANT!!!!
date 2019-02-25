@@ -1,0 +1,7 @@
+Execute the following command in the terminal inside the project folder.
+
+mongoimport --db projectgroup --collection moviesgroups --file datadb.json --jsonArray
+
+
+
+
